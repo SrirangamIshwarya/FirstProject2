@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="name1">google</string>
+    <string name="name2">organize the world\'s information and make it univeraccessible and useful</string>
+    <string name="name3">855-836-3987</string>
+    <string name="name4">http://www.google.com</string>
+    <string name="name5">1600 Amphitheatre Parkway
+            \nMountain View, CA,94043</string>
+
+</resources>
